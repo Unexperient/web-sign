@@ -1,0 +1,30 @@
+body { 
+      font-family: Times New Roman;
+      background-image: url('images/chords.png');
+}
+
+
+.jumbotron { 
+    background-color: transparent powderblue; /* Orange */
+    color: #ffffff;
+    border-radius: 25px;  
+}
+
+
+ h1 { 
+      color: navy;
+      margin-left: 20px;
+}
+
+button { color: blue;
+	border-style: circle;
+	     
+}
+
+img { height: 260px;
+      width: 260px;
+      opacity: 0.9;
+     filter: alpha (opacity=50);
+
+
+}
